@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4bb8e8f0225c7604ea32cc0ba13d6cc0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - planetCatcher1: {fileID: 8027547672994434148, guid: 0a83987b39c8fd643b56cd7d68a0f5e7,
+      type: 3}
+  - planetCatcher2: {instanceID: 0}
+  - planetCatcher3: {instanceID: 0}
+  - selected: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
